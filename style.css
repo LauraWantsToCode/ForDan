@@ -1,0 +1,25 @@
+* {
+    margin: 0;
+}
+
+body {
+    text-align: center;   
+    margin-top: 10%;
+    background-color: #E0B1CB;
+    font-family: 'Cormorant SC', serif;
+}
+
+h2 {
+    margin-top: 3%;
+    color: #5E548E;
+}
+
+button {
+    background-color:#BE95C4;
+    border-radius: 30%;
+    font-size: 16px;
+    padding: 5px;
+    color: #231942;
+    box-shadow: 3px 5px #9F86C0;
+}
+
